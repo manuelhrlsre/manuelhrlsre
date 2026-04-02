@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy ingeniero de software con experiencia en diversos roles, entre ellos: DevOps e inteligencia artificial DotNet automatizacion de procesos manuales. Me apasiona crear soluciones tecnológicas que ayuden a las organizaciones a modernizarse y trabajar de forma más eficiente.
+Soy ingeniero de software con experiencia en diversos roles, entre ellos: Programador Backend, Esepcialista DevOps e inteligencia artificial, consultor de Automatizacion de procesos manuales. Me apasiona crear soluciones tecnológicas que ayuden a las organizaciones a modernizarse y trabajar de forma más eficiente.
 
 He colaborado con instituciones bancarias, tanto públicas como privadas, desarrollando herramientas y procesos que simplifican la operación diaria y facilitan la adopción de nuevas tecnologías. Siempre busco aportar valor a través de la innovación y la mejora continua.
 
@@ -69,7 +69,7 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 
 ## 🎯 Mis Intereses
 
-🌐 Desarrollo Backend
+🌐 **Desarrollo Backend**
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
 | APIs                 | Comunicación entre sistemas                  |
@@ -77,7 +77,7 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 | Backend              | Lógica y procesamiento de datos              |
 | Buenas prácticas     | Código limpio y mantenible                   |
 
-🏗️ Arquitectura de Software
+🏗️ **Arquitectura de Software**
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
 |   | |
