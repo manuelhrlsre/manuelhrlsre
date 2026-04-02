@@ -109,7 +109,7 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 
 
 ### [DevIA](https://github.com/manuelhrlsre/proyecto2)
-**Descripción**: Es una extension de visual studio code para integrar una inteligencia artificial en el IDE.
+**Descripción**: Es una extension de Visual Studio Code donde integramos en un Chatbot, un modelo de inteligencia artificial .
 * Tecnologías: TypeScript, JavaScript, AI /LLM
 * Fecha de desarollo: Dic. 2023
 * Vista previa:
