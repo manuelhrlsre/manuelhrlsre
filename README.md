@@ -15,6 +15,7 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 ## 🛠️ Tecnologías y herramientas
 
 ⚙️ **DevOps**
+
 <div align="center" style="width: 600px;">
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
@@ -35,25 +36,21 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 </div>
 
 🐳 **Contenedores y orquestación**
-<div align="center" style="width: 600px;">
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
 | Docker               | Contenedores para apps ligeras y portables   |
 | Kubernetes (K8s)     | Orquestación y gestión de contenedores       |
 | Microservicios       | Arquitectura modular y escalable             |
-</div>
 
 ☁️ **Cloud computing**
-<div align="center" style="width: 600px;">
 | 🛠️ Herramienta / Área | 💡 Descripción breve                          |
 |----------------------|----------------------------------------------|
 | Azure                | Plataforma cloud de Microsoft                |
 | AWS                  | Plataforma cloud de Amazon                   |
 | GCP                  | Plataforma cloud de Google                   |
-</div>
+
 
 💻 **Desarrollo de software**
-<div align="center" style="width: 600px;">
 | 🛠️ Herramienta / Área | 💡 Descripción breve                          |
 |----------------------|----------------------------------------------|
 | Python               | Desarrollo rápido y versátil                 |
@@ -62,10 +59,8 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 | W.P.F.               | Interfaces de escritorio en Windows          |
 | Visual Basic .NET    | Desarrollo rápido en entorno Microsoft       |
 | VBA (script)         | Automatización en herramientas Office        |
-</div>
 
 ✏️ **Automatizacion robotico de procesos (RPA)**
-<div align="center" style="width: 600px;">
 | 🛠️ Herramienta / Área | 💡 Descripción breve                          |
 |----------------------|----------------------------------------------|
 | Power Automate       | Flujos automatizados Microsoft               |
@@ -74,28 +69,23 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 | N8N                  | Automatizacion Low Code                      |
 | Microsoft Workflow   | Gestión y automatización de procesos         |
 | Selenium IDE         | Automatización de pruebas en navegador       |
-</div>
 
 ---
 
 ## 🎯 Mis Intereses
 
 🌐 Desarrollo Backend
-<div align="center" style="width: 600px;">
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
 | APIs                 | Comunicación entre sistemas                  |
-| Functions /Lambdas    | Componentes serverless                       |
+| Functions /Lambdas   | Componentes serverless                       |
 | Backend              | Lógica y procesamiento de datos              |
 | Buenas prácticas     | Código limpio y mantenible                   |
-</div>
 
 🏗️ Arquitectura de Software
-<div align="center" style="width: 600px;">
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
 |   | |
-</div>
 
 
 ---
