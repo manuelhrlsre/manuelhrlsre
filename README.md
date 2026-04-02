@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Manuel
+## ¡Hola! 👋 Soy Manuel Rodriguez
 
 **Desarrollador | Innovador | Apasionado por la tecnología**
 
@@ -6,25 +6,44 @@
 
 ## 🚀 Sobre Mí
 
-Soy un desarrollador con experiencia en desarrollo web y software. Me encanta crear soluciones innovadoras y aprender tecnologías nuevas. Aquí comparto mis proyectos y contribuciones al código abierto.
+Soy ingeniero de software con experiencia en diversos roles, entre ellos: DevOps e inteligencia artificial DotNet automatizacion de procesos manuales. Me apasiona crear soluciones tecnológicas que ayuden a las organizaciones a modernizarse y trabajar de forma más eficiente.
+
+He colaborado con instituciones bancarias, tanto públicas como privadas, desarrollando herramientas y procesos que simplifican la operación diaria y facilitan la adopción de nuevas tecnologías. Siempre busco aportar valor a través de la innovación y la mejora continua.
 
 ---
 
-## 💻 Tecnologías que Domino
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
+## 🛠️ Tecnologías y herramientas
+⚙️ DevOps (CI/CD, automatización, cloud)
+🤖 Inteligencia Artificial 
+ * OpenIA 
+ * Bedrock
+🐳 Contenedores y orquestación
+☁️ Cloud computing 
+  * Azure
+  * AWS  
+💻 Desarrollo de software 
+  - Python
+  - JavaScript
+  - C Scharp
+  - Windows Presentation Foundation 
+  - Visual Basic Net
+  - VBA Script
+✏️ Automatizacion robotico de procesos (RPA)
+  - Power automate
+  - UIPath
+  - DialogFlow
+  - Microsoft WorkFlow
+  - Selenium IDE
+| :---         |     :---:      |          ---: |
+| Power automate   | UIPath    | DialogFlow    |
+| Ms WorkFlow    | Selenium        | POstaman      |
 ---
 
 ## 🎯 Mis Intereses
 
-- 🌐 Desarrollo Web Full Stack
+- 🌐 Desarrollo Backend 
 - 🤖 Inteligencia Artificial
-- 📱 Desarrollo Mobile
+- 📱 Desarrollo Desktio
 - 🔐 Ciberseguridad
 - 🏗️ Arquitectura de Software
 
@@ -40,14 +59,15 @@ Soy un desarrollador con experiencia en desarrollo web y software. Me encanta cr
 
 ## 🏆 Proyectos Destacados
 
-### [Proyecto 1](https://github.com/manuelhrlsre/proyecto1)
-**Descripción breve**: Una aplicación web que hace...
-- Tecnologías: React, Node.js, MongoDB
+### [Speeder](https://github.com/manuelhrlsre/proyecto1)
+**Descripción**: Es una herramienta para desarrollar flujos para automatizacion robotica de procesos manuales (RPA).
+- Tecnologías: WPF, C# , Comandos MsDos (Bath)
+![Speeder](https://github.com/user-attachments/assets/85576aa0-039a-4b7b-96d7-31c429eb56af")  
 
-### [Proyecto 2](https://github.com/manuelhrlsre/proyecto2)
-**Descripción breve**: Un sistema que automatiza...
-- Tecnologías: Python, FastAPI, PostgreSQL
-
+### [DevIA](https://github.com/manuelhrlsre/proyecto2)
+**Descripción**: Es una extension de visual studio code para integrar una inteligencia artificial en el IDE.
+- Tecnologías: TypeScript, JavaScript, AI /LLM
+![Chatbot](https://media.licdn.com/dms/image/v2/D4E2DAQGw0yhUj-efGQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1720037333064?e=1775754000&v=beta&t=Ztf-H-X0hWjMybWUd_Yuqd9SH7AwCuW1xnvZU0fRkno)
 ---
 
 ## 📫 Conectemos
