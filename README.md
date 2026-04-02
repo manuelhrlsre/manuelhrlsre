@@ -14,14 +14,14 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 
 ## 🛠️ Tecnologías y herramientas
 
-⚙️ DevOps
+⚙️ **DevOps**
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
 | CI/CD                | Integración y despliegue continuo            |
 | Jenkins              | Automatización de pipelines                  |
 | Automatización       | Reducción de tareas manuales                 |
 
-🤖 Inteligencia Artificial 
+🤖 **Inteligencia Artificial**
 
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
@@ -31,14 +31,14 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 | NLP                  | Procesamiento de lenguaje natural            |
 | Automatización IA    | Decisiones inteligentes automáticas          |
 
-🐳 Contenedores y orquestación
+🐳 **Contenedores y orquestación**
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
 | Docker               | Contenedores para apps ligeras y portables   |
 | Kubernetes (K8s)     | Orquestación y gestión de contenedores       |
 | Microservicios       | Arquitectura modular y escalable             |
 
-☁️ Cloud computing 
+☁️ **Cloud computing**
 | 🛠️ Herramienta / Área | 💡 Descripción breve                          |
 |----------------------|----------------------------------------------|
 | Azure                | Plataforma cloud de Microsoft                |
@@ -46,7 +46,7 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 | GCP                  | Plataforma cloud de Google                   |
 
 
-💻 Desarrollo de software 
+💻 **Desarrollo de software**
 | 🛠️ Herramienta / Área | 💡 Descripción breve                          |
 |----------------------|----------------------------------------------|
 | Python               | Desarrollo rápido y versátil                 |
@@ -57,7 +57,7 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 | VBA (script)         | Automatización en herramientas Office        |
 
 
-✏️ Automatizacion robotico de procesos (RPA)
+✏️ **Automatizacion robotico de procesos (RPA)**
 | 🛠️ Herramienta / Área | 💡 Descripción breve                          |
 |----------------------|----------------------------------------------|
 | Power Automate       | Flujos automatizados Microsoft               |
@@ -81,7 +81,7 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 | Buenas prácticas     | Código limpio y mantenible                   |
 
 
-- 🏗️ Arquitectura de Software
+🏗️ Arquitectura de Software
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
 |   | |
@@ -101,7 +101,7 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 ### [Speeder](https://github.com/manuelhrlsre/proyecto1)
 **Descripción**: Es una herramienta para desarrollar flujos para automatizacion robotica de procesos manuales (RPA).
 - Tecnologías: WPF, C# , Comandos MsDos (Bath)
-**Fecha de desaroollo**: Jun. 2020
+- Fecha de desaroollo: Jun. 2020
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f376bfe5-e7ba-4ff7-8fd2-307c8fafc81e" height="220" alt="streak graph"  />
@@ -112,7 +112,7 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 ### [DevIA](https://github.com/manuelhrlsre/proyecto2)
 **Descripción**: Es una extension de visual studio code para integrar una inteligencia artificial en el IDE.
 - Tecnologías: TypeScript, JavaScript, AI /LLM
-**Fecha de desaroollo**: Dic. 2013
+- Fecha de desaroollo: Dic. 2013
 ![Vista previa del proyecto:])
 
 <div align="center">
