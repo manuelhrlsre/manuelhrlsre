@@ -17,26 +17,27 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 🤖 Inteligencia Artificial 
  * OpenIA 
  * Bedrock
+
 🐳 Contenedores y orquestación
+
 ☁️ Cloud computing 
   * Azure
   * AWS  
+
 💻 Desarrollo de software 
-  - Python
-  - JavaScript
-  - C Scharp
-  - Windows Presentation Foundation 
-  - Visual Basic Net
-  - VBA Script
+  * Python
+  * JavaScript
+  * C Scharp
+  * Windows Presentation Foundation 
+  * Visual Basic Net
+  * VBA Script
+
 ✏️ Automatizacion robotico de procesos (RPA)
-  - Power automate
-  - UIPath
-  - DialogFlow
-  - Microsoft WorkFlow
-  - Selenium IDE
-| :---         |     :---:      |          ---: |
-| Power automate   | UIPath    | DialogFlow    |
-| Ms WorkFlow    | Selenium        | POstaman      |
+  * Power automate
+  * UIPath
+  * DialogFlow
+  * Microsoft WorkFlow
+  * Selenium IDE
 ---
 
 ## 🎯 Mis Intereses
