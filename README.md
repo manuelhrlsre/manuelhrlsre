@@ -15,17 +15,13 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 ## 🛠️ Tecnologías y herramientas
 
 ⚙️ **DevOps**
-
-<div align="center" style="width: 600px;">
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
 | CI/CD                | Integración y despliegue continuo            |
 | Jenkins              | Automatización de pipelines                  |
 | Automatización       | Reducción de tareas manuales                 |
-</div>
 
 🤖 **Inteligencia Artificial**
-<div align="center" style="width: 600px;">
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
 | OpenAI               | Modelo fundacionales en Azure                |
@@ -33,7 +29,6 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 | Vertex               | Modelos funcionales en GC                    |
 | NLP                  | Procesamiento de lenguaje natural            |
 | Automatización IA    | Decisiones inteligentes automáticas          |
-</div>
 
 🐳 **Contenedores y orquestación**
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
