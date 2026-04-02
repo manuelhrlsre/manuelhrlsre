@@ -13,16 +13,23 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 ---
 
 ## 🛠️ Tecnologías y herramientas
-⚙️ DevOps (CI/CD, automatización, cloud)
+⚙️ DevOps
+ * CI/CD
+ * Jenkis
+ * Automatizacion
+
 🤖 Inteligencia Artificial 
  * OpenIA 
  * Bedrock
+ * Vertex
 
 🐳 Contenedores y orquestación
+ * Docker
 
 ☁️ Cloud computing 
   * Azure
-  * AWS  
+  * AWS
+  * GCP 
 
 💻 Desarrollo de software 
   * Python
@@ -56,6 +63,7 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelhrlsre&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ---
 
 ## 🏆 Proyectos Destacados
@@ -63,20 +71,25 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 ### [Speeder](https://github.com/manuelhrlsre/proyecto1)
 **Descripción**: Es una herramienta para desarrollar flujos para automatizacion robotica de procesos manuales (RPA).
 - Tecnologías: WPF, C# , Comandos MsDos (Bath)
-![Speeder](https://github.com/user-attachments/assets/85576aa0-039a-4b7b-96d7-31c429eb56af")  
+![Speeder](https://github.com/user-attachments/assets/85576aa0-039a-4b7b-96d7-31c429eb56af")
+
+
+<img width="495" height="313" alt="image" src="https://github.com/user-attachments/assets/f376bfe5-e7ba-4ff7-8fd2-307c8fafc81e" />
+
+![Vista previa del proyecto:](https://github.com/user-attachments/assets/f376bfe5-e7ba-4ff7-8fd2-307c8fafc81e)
 
 ### [DevIA](https://github.com/manuelhrlsre/proyecto2)
 **Descripción**: Es una extension de visual studio code para integrar una inteligencia artificial en el IDE.
 - Tecnologías: TypeScript, JavaScript, AI /LLM
-![Chatbot](https://media.licdn.com/dms/image/v2/D4E2DAQGw0yhUj-efGQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1720037333064?e=1775754000&v=beta&t=Ztf-H-X0hWjMybWUd_Yuqd9SH7AwCuW1xnvZU0fRkno)
+![Vista previa del proyecto:](https://media.licdn.com/dms/image/v2/D4E2DAQGw0yhUj-efGQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1720037333064?e=1775754000&v=beta&t=Ztf-H-X0hWjMybWUd_Yuqd9SH7AwCuW1xnvZU0fRkno)
 ---
 
 ## 📫 Conectemos
 
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
-- 🐦 [Twitter](https://twitter.com/tuusuario)
-- 📧 Email: tu.email@ejemplo.com
-- 🌐 Portfolio: [tu-sitio-web.com](https://tu-sitio-web.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manuel-h-rodrigu%C3%A9z-l-277a7350/)
+- 🐦 [Twitter](https://twitter.com/@ManuelHRL)
+- 📧 Email: manuelhrl2000@gmail.com
+
 
 ---
 
