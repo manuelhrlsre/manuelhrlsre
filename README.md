@@ -71,7 +71,8 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 
 ## 🎯 Mis Intereses
 
-- 🌐 Desarrollo Backend
+🌐 Desarrollo Backend
+
 | 🛠️ Herramienta / Área | 💡 Descripción breve                        |
 |----------------------|----------------------------------------------|
 | APIs                 | Comunicación entre sistemas                  |
@@ -79,8 +80,11 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 | Backend              | Lógica y procesamiento de datos              |
 | Buenas prácticas     | Código limpio y mantenible                   |
 
-- 🏗️ Arquitectura de Software
 
+- 🏗️ Arquitectura de Software
+| 🛠️ Herramienta / Área | 💡 Descripción breve                        |
+|----------------------|----------------------------------------------|
+|   | |
 ---
 
 ## 📊 Mis Estadísticas de GitHub
@@ -98,15 +102,22 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 **Descripción**: Es una herramienta para desarrollar flujos para automatizacion robotica de procesos manuales (RPA).
 - Tecnologías: WPF, C# , Comandos MsDos (Bath)
 **Fecha de desaroollo**: Jun. 2020
-![Vista previa del proyecto:](https://github.com/user-attachments/assets/f376bfe5-e7ba-4ff7-8fd2-307c8fafc81e)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f376bfe5-e7ba-4ff7-8fd2-307c8fafc81e" height="220" alt="streak graph"  />
+</div>
+
+
 
 ### [DevIA](https://github.com/manuelhrlsre/proyecto2)
 **Descripción**: Es una extension de visual studio code para integrar una inteligencia artificial en el IDE.
 - Tecnologías: TypeScript, JavaScript, AI /LLM
 **Fecha de desaroollo**: Dic. 2013
-![Vista previa del proyecto:](https://media.licdn.com/dms/image/v2/D4E2DAQGw0yhUj-efGQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1720037333064?e=1775754000&v=beta&t=Ztf-H-X0hWjMybWUd_Yuqd9SH7AwCuW1xnvZU0fRkno)
+![Vista previa del proyecto:])
 
-
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E2DAQGw0yhUj-efGQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1720037333064?e=1775754000&v=beta&t=Ztf-H-X0hWjMybWUd_Yuqd9SH7AwCuW1xnvZU0fRkno" height="220" alt="streak graph"  />
+</div>
 
 ---
 
