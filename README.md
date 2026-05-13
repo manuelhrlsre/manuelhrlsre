@@ -115,7 +115,8 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 * Vista previa:
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E2DAQGw0yhUj-efGQ/profile-treasury-image-shrink_1280_1280/profile-treasury-image-shrink_1280_1280/0/1720037333064?e=1775754000&v=beta&t=Ztf-H-X0hWjMybWUd_Yuqd9SH7AwCuW1xnvZU0fRkno" height="220" alt="streak graph"  />
+  <img src="<img width="1364" height="727" alt="image" src="https://github.com/user-attachments/assets/4bcef94f-6370-4725-9894-02e32ef16ddd" />
+" height="220" alt="streak graph"  />
 </div>
 
 ---
