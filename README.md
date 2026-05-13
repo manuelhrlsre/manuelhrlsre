@@ -109,15 +109,15 @@ He colaborado con instituciones bancarias, tanto públicas como privadas, desarr
 
 
 ### [DevIA](https://github.com/manuelhrlsre/proyecto2)
-**Descripción**: Es una extension de Visual Studio Code donde integramos en un Chatbot, un modelo de inteligencia artificial .
+**Descripción**: Es una extension de Visual Studio Code donde integré en un Chatbot, un modelo de inteligencia artificial .
 * Tecnologías: TypeScript, JavaScript, AI /LLM
 * Fecha de desarollo: Dic. 2023
 * Vista previa:
 
 <div align="center">
-  <img src="<img width="1364" height="727" alt="image" src="https://github.com/user-attachments/assets/4bcef94f-6370-4725-9894-02e32ef16ddd" height="220" alt="streak graph"  />
+  <img src="https://github.com/user-attachments/assets/4bcef94f-6370-4725-9894-02e32ef16ddd" height="220" alt="streak graph"  />
 </div>
-
+"## Link  https://marketplace.visualstudio.com/items?itemName=DevIAPeriferia.devia
 ---
 
 ## 📫 Conectemos
